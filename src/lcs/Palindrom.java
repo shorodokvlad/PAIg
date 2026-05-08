@@ -39,7 +39,7 @@ public class Palindrom {
     public static void CelMaiLungPalindrom(int[] a, int n) {
         int[] a2 = new int[n];
 
-        for (int i = 0; i < n - 1; i++) {
+        for (int i = 0; i < n; i++) {
             a2[i] = a[n - 1 - i];
         }
 
