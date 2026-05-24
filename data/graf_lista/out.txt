@@ -1,0 +1,17 @@
+DF recursiv: 2 0 3 5 4 1 
+Timp DF recursiv: 745250 ns
+DF iterativ: 2 0 5 3 4 1 
+Timp DF iterativ: 335875 ns
+BF: 2 0 3 4 5 1 
+Timp BF: 277541 ns
+
+Nr. componente conexe: 1
+Componenta 1: 0 1 2 3 4 5 
+
+=== Benchmark: Lista vs Matrice ===
+n        m          Lista (ns)         Matrice (ns)      
+----------------------------------------------------------
+100      99         101500             146834            
+500      499        288958             1388000           
+1000     999        258375             1838000           
+5000     4999       2022666            15440083          

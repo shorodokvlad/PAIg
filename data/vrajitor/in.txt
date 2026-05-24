@@ -1,0 +1,17 @@
+2
+3 2
+0 1
+2 1
+2
+Nepopular 1
+Inverseaza 2
+5 5
+0 1
+1 4
+2 3
+3 0
+3 4
+3
+Inverseaza 1
+Popular 2
+Inverseaza 2
