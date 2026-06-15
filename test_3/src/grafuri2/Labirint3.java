@@ -13,8 +13,8 @@ public class Labirint3 {
     public static final int INF = 1000000;
 
     public static void main(String[] args) {
-        try (BufferedReader br = new BufferedReader(new FileReader("data/labirint2/in.txt"));
-             PrintWriter pw = new PrintWriter(new File("data/labirint2/out.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("data/labirint3/in.txt"));
+             PrintWriter pw = new PrintWriter(new File("data/labirint3/out.txt"))) {
 
             List<List<Integer>> grid = new ArrayList<>();
             List<int[]> coords = new ArrayList<>();
